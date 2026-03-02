@@ -1,2 +1,6 @@
 language = "c"
-run = "gcc -o hello /home/runner/project2/src/hello.c"
+compile = "gcc /home/runner/workspace/src/main.c -o main"
+run = "./main"
+
+[agent]
+expertMode = true
