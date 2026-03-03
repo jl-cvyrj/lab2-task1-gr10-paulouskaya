@@ -9,9 +9,9 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include "palindrome.h"
+#include "../include/palindrome.h"
 
-#define MAX_RANDOM 100000
+#define MAX_RANDOM 1000
 
 static void
 print_array(unsigned int *array, int size);

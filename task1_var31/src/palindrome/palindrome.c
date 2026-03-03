@@ -4,7 +4,7 @@
  * Рэалізацыя функцыі праверкі ліку на паліндром.
  */
 
-#include "palindrome.h"
+#include "../../include/palindrome.h"
 /*
  * Функцыя: is_palindrome
  *
